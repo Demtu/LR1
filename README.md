@@ -71,7 +71,7 @@
 https://doka.guide/tools/markdown/
 - Делаем собственный репозиторий на примере уже существующего с шаблона:
 https://github.com/Den1sovDm1triy/DA-in-GameDev-lab1/blob/main/README.md
-- Ссылка на собственный репозиторий: https://github.com/Demtu/-/new/main?readme=1
+- Ссылка на собственный репозиторий: [https://github.com/Demtu/-/new/main?readme=1](https://github.com/Demtu/LR1)
 
 ## Выводы
 
